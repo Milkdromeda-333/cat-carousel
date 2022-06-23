@@ -25,6 +25,12 @@ body {
 	align-items: center;
 }
 
+@media only screen (min-width: 900px) {
+	.cat-gallery {
+		height: 300px;
+	}
+}
+
 .arrows:hover {
 	opacity: 0.8;
 }
